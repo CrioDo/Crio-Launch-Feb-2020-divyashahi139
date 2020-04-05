@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3f5ed5a1d72aa2c473275d8f1372e2ea",
+    "revision": "91793362fb7b722fbc5932800d0bf599",
     "url": "/Crio-Launch-Feb-2020-divyashahi139/index.html"
   },
   {
-    "revision": "eb49d2e9a7afe2b1f312",
+    "revision": "879281b3bec7048ef570",
     "url": "/Crio-Launch-Feb-2020-divyashahi139/static/css/2.57ddf7ad.chunk.css"
   },
   {
-    "revision": "30040aa80a31c70b77b1",
+    "revision": "9d850b1dcb1f40fac0e5",
     "url": "/Crio-Launch-Feb-2020-divyashahi139/static/css/main.5db1380d.chunk.css"
   },
   {
-    "revision": "eb49d2e9a7afe2b1f312",
-    "url": "/Crio-Launch-Feb-2020-divyashahi139/static/js/2.b2bb273a.chunk.js"
+    "revision": "879281b3bec7048ef570",
+    "url": "/Crio-Launch-Feb-2020-divyashahi139/static/js/2.e656da98.chunk.js"
   },
   {
     "revision": "d466ab9648f013dea081956fc7c904f3",
-    "url": "/Crio-Launch-Feb-2020-divyashahi139/static/js/2.b2bb273a.chunk.js.LICENSE.txt"
+    "url": "/Crio-Launch-Feb-2020-divyashahi139/static/js/2.e656da98.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "30040aa80a31c70b77b1",
-    "url": "/Crio-Launch-Feb-2020-divyashahi139/static/js/main.dcf96b61.chunk.js"
+    "revision": "9d850b1dcb1f40fac0e5",
+    "url": "/Crio-Launch-Feb-2020-divyashahi139/static/js/main.045ebb34.chunk.js"
   },
   {
     "revision": "503a8170c54a94bcee50",
